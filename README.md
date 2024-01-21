@@ -52,9 +52,3 @@ To get started with this project, follow the steps below.
 - Matplotlib
 - TensorFlow (for LSTM models)
 - Scikit-Learn (for data scaling)
-
-### Installation
-
-Clone the repository to your local machine:
-
-```bash
